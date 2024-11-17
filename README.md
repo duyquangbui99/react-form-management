@@ -38,7 +38,7 @@ This project is a **User Management System** built as part of the **Front-End De
 - **CSS**: For styling and responsive design.
 
 
-### **Installation**
+## **Installation**
 - Clone the repository and install dependencies:
    ```bash
 
@@ -48,7 +48,7 @@ This project is a **User Management System** built as part of the **Front-End De
 
    npm install react-router-dom
 
-### **Author**
+## **Author**
 Quang Bui
 
 
