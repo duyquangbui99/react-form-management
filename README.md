@@ -2,7 +2,6 @@
 
 This project is a **User Management System** built as part of the **Front-End Development class**. It demonstrates the use of **React Router**, **form handling with Formik**, and state management with React's Context API. The application allows users to navigate between pages, add new users, edit existing users, and delete users from a list. The project focuses on building a functional, responsive, and user-friendly UI.
 
----
 ## **Overviews**
 <img width="696" alt="0" src="https://github.com/user-attachments/assets/6db6ecc1-86de-44a0-940d-54144a3740f2">
 <img width="684" alt="1" src="https://github.com/user-attachments/assets/3f03a159-8e05-4676-9766-2845a90578ee">
@@ -29,7 +28,6 @@ This project is a **User Management System** built as part of the **Front-End De
 - **Responsive Design**:
   - Clean and minimal UI with a responsive layout for different screen sizes.
 
----
 
 ## **Technologies Used**
 
@@ -39,7 +37,6 @@ This project is a **User Management System** built as part of the **Front-End De
 - **Yup**: For form validation.
 - **CSS**: For styling and responsive design.
 
----
 
 ### **Installation**
 - Clone the repository and install dependencies:
