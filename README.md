@@ -43,7 +43,7 @@ This project is a **User Management System** built as part of the **Front-End De
 ---
 
 ### **Installation**
-1. Clone the repository:
+- Clone the repository and install dependencies:
    ```bash
 
    npm install
