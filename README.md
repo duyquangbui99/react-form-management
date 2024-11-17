@@ -15,7 +15,6 @@ This project is a **User Management System** built as part of the **Front-End De
 - **React Router Integration**:
   - Enables navigation between pages: Home, User List, Add User, and Edit User.
   - Includes nested routes for user-specific actions.
-  - Programmatic navigation using `useNavigate()`.
 
 - **User Management**:
   - Add new users with a form.
